@@ -3,4 +3,4 @@ import { render } from 'react-dom'
 import App from './components/app'
 
 render(<App />, document.getElementById('app'))
-console.log('react-tic-tac-toe')
+// console.log('react-tic-tac-toe')
